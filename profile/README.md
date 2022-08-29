@@ -15,3 +15,8 @@ https://drive.google.com/drive/folders/1Sqg7ipCFlSrXEEJ9QUJNAVtsgQQ3eReV?usp=sha
 - 1705069
 - 1705074
 
+### Frontend Parts
+In this project, frontends will be called as below:
+- **PWA**: User/Customer's webapp that's going to run on mobile devices
+- **WEB**: Organizers' webapp that's going to run on a desktop/laptop
+- **KIOSK**: Organizers' Kiosk mobile-app/PWA
